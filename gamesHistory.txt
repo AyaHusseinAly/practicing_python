@@ -1,0 +1,5 @@
+Welcome in New game of Gussing Game 
+ Number of times you won: 1
+ Number of times you lost: 1Welcome in New game of Gussing Game 
+ Number of times you won: 2
+ Number of times you lost: 0
